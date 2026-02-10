@@ -1,5 +1,6 @@
 ## Hola soy Jesus Barroso 👋
-<img width="3780" height="1890" alt="banner para github" src="https://github.com/user-attachments/assets/cb51d26b-eb30-4049-a0dc-4e877f91dba8" />
+![github](https://github.com/user-attachments/assets/3b2bb236-7a67-45e2-a6e7-66f8e1793b1a)
+
 
 
 
