@@ -1,4 +1,5 @@
 ## Hola soy Jesus Barroso 👋
+<img width="740" height="1057" alt="image" src="https://github.com/user-attachments/assets/0c440494-78e8-41eb-94a9-63af433c546e" />
 
 <!--
 **JABAVENDETA/JABAVENDETA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
