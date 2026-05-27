@@ -22,7 +22,7 @@
 <p> Como funciona: El proyecto es muy sencillo muestra un grafico de fondo de colombia donde tiene unas variables con botones que permiten activar o desactivar los indices, permtiiendo observar la incidencia de estos en alguno puntos de la geografica nacional
 
 <p> Conclusion: Esta aplicacion permite analizar visualmente la informacion de bases de datos nacionales de forma rapida y llamativa.
-<p> Link: [https://spring7-q1nl.onrender.com/](https://narco-impact-map.preview.emergentagent.com/)
+<p> Link: https://narco-impact-map.preview.emergentagent.com/
   
  ### 
 
