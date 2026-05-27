@@ -27,7 +27,7 @@
 
 <img width="760" height="557" alt="spring7" src="https://github.com/user-attachments/assets/1dbfb202-bc26-4161-8093-6a7020cc5494" />
 
-
+<img width="760" height="557" alt="spring7" src="https://github.com/JABAVENDETA/Mapa-de-correlacion/blob/main/Captura%20de%20pantalla%202026-05-27%20130351.png" />
 
 <!--
 **JABAVENDETA/JABAVENDETA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
