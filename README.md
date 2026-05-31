@@ -64,7 +64,7 @@ Link del archivo csv: https://drive.google.com/drive/folders/1Gztg7C3cCjtqJ49Dra
 El dataset está disponible en Google Drive.
 Imagen: 
 ## Vista previa del proyecto
-![Análisis de Delitos] [(mapa_inetractivo1.png)] 
+![Análisis de Delitos](mapa_inetractivo1.png)
 
 
 <!--
