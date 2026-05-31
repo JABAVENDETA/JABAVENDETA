@@ -64,7 +64,9 @@ Link del archivo csv: https://drive.google.com/drive/folders/1Gztg7C3cCjtqJ49Dra
 El dataset está disponible en Google Drive.
 Imagen: 
 ## Vista previa del proyecto
-<img width="760" height="557" alt="projecto_delitos" src="[https://github.com/user-attachments/assets/1dbfb202-bc26-4161-8093-6a7020cc5494"](https://github.com/JABAVENDETA/Proyecto_delitos/blob/main/mapa_inetractivo1.png) />
+<img width="760" height="557" alt="Proyecto_delitos" src="[https://github.com/user-attachments/assets/1dbfb202-bc26-4161-8093-6a7020cc5494"](https://github.com/JABAVENDETA/Proyecto_delitos/blob/main/mapa_inetractivo1.png) />
+
+![Mapa Interactivo](https://raw.githubusercontent.com/JABAVENDETA/Proyecto_delitos/main/mapa_inetractivo1.png)
 
 
 <!--
