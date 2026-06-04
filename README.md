@@ -65,6 +65,7 @@ Mejoré mis habilidades en manejo de grandes volúmenes de datos y en la comunic
 
 ## Acceso al proyecto
 [![Abrir en Colab] LInk: https://colab.research.google.com/drive/19yfQmaxqShAU6KJTKyvukhiolWnh3hkQ#scrollTo=PIn1ewwtJZPH
+
 Link del archivo csv: https://drive.google.com/drive/folders/1Gztg7C3cCjtqJ49Drabo6dp9z3zQVsmR 
 
 
