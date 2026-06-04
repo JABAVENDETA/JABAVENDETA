@@ -64,9 +64,9 @@ Construí un mapa interactivo de calor para visualizar la distribución geográf
 Mejoré mis habilidades en manejo de grandes volúmenes de datos y en la comunicación visual de hallazgos
 
 ## Acceso al proyecto
-[![Abrir en Colab] LInk: https://colab.research.google.com/drive/19yfQmaxqShAU6KJTKyvukhiolWnh3hkQ#scrollTo=PIn1ewwtJZPH
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19yfQmaxqShAU6KJTKyvukhiolWnh3hkQ#scrollTo=PIn1ewwtJZPH)
 
-Link del archivo csv: https://drive.google.com/drive/folders/1Gztg7C3cCjtqJ49Drabo6dp9z3zQVsmR 
+[![Dataset en Google Drive](https://img.shields.io/badge/Dataset-Google%20Drive-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Gztg7C3cCjtqJ49Drabo6dp9z3zQVsmR)
 
 
 ## Vista previa del proyecto
