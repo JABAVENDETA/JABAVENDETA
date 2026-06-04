@@ -78,7 +78,6 @@ CategoríaHerramientasLenguajesPython · SQLAnálisis de datosPandas · NumPyVis
 
 
 
-
 <!--
 **JABAVENDETA/JABAVENDETA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
