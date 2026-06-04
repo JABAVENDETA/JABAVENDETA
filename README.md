@@ -63,8 +63,10 @@ Identifiqué los municipios y períodos con mayor concentración de delitos
 Construí un mapa interactivo de calor para visualizar la distribución geográfica de incidentes
 Mejoré mis habilidades en manejo de grandes volúmenes de datos y en la comunicación visual de hallazgos
 
-🔗 Abrir en Google Colab
-📁 Dataset en Google Drive
+## Acceso al proyecto
+[![Abrir en Colab] LInk: https://colab.research.google.com/drive/19yfQmaxqShAU6KJTKyvukhiolWnh3hkQ#scrollTo=PIn1ewwtJZPH
+Link del archivo csv: https://drive.google.com/drive/folders/1Gztg7C3cCjtqJ49Drabo6dp9z3zQVsmR 
+
 
 ## Vista previa del proyecto
 
