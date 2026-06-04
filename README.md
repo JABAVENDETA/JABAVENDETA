@@ -65,7 +65,7 @@ Mejoré mis habilidades en manejo de grandes volúmenes de datos y en la comunic
 
 🔗 Abrir en Google Colab
 📁 Dataset en Google Drive
-Mostrar imagen
+
 ## Vista previa del proyecto
 
 ![Mapa Interactivo](https://raw.githubusercontent.com/JABAVENDETA/Proyecto_delitos/main/mapa_inetractivo1.png)
