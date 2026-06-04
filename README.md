@@ -1,71 +1,79 @@
 ## Hola soy Jesus Barroso 👋
 ![github](https://github.com/user-attachments/assets/3b2bb236-7a67-45e2-a6e7-66f8e1793b1a)
 
-## Bio 
-<p> Analista de datos con conocimiento en Python, SQL, ArcGIS, Excel, Power BI
-<p> Administrador de empresas, Ingeniero Industrial y Ciencias Navales.
+👤 Sobre mí
+Soy Analista de Datos con formación en Administración de Empresas, Ingeniería Industrial y Ciencias Navales. Me especializo en transformar grandes volúmenes de datos en insights accionables, combinando herramientas de análisis, visualización y desarrollo de aplicaciones web.
 
-## Proyectos Destacados
-
-<p> Titulo: Creación de una aplicación
-<p> Descripcion: análisis del mercado de vehículos haciendo una exploración de datos, para luego hacer la limpieza de la base de datos utilizando Python con las librerías pandas, plotly y streamlit, para posteriormente cargarlo en Github y render. 
-
-<p> Como funciona: El proyecto es muy sencillo muestra una hisotgrama desplegable sobre el kilometraje por vehiculo. Asi mismo muestra una grafica de dispersion sobre el precio del vehiculo vs el año del modelo.
-
-<p> Conclusion: Esta aplicacion permite analizar visualmente la informacion de la base de datos sobre los vehiculos por medio de unas casillas de verificacion.
-<p> Link: https://spring7-q1nl.onrender.com/
-<img width="760" height="557" alt="spring7" src="https://github.com/user-attachments/assets/1dbfb202-bc26-4161-8093-6a7020cc5494" />
-
-<p> Titulo: Creación de un mapa de incidencia
-<p> Descripcion: análisis dde la incidencia de factores como la violencia, el narcotrafico, la pobreza y el asesinato, en puntos focales del pais. 
-
-<p> Como funciona: El proyecto es muy sencillo muestra un grafico de fondo de colombia donde tiene unas variables con botones que permiten activar o desactivar los indices, permtiiendo observar la incidencia de estos en alguno puntos de la geografica nacional
-
-<p> Conclusion: Esta aplicacion permite analizar visualmente la informacion de bases de datos nacionales de forma rapida y llamativa.
-<p> Link: https://narco-impact-map.preview.emergentagent.com/
-  
- ### 
+🛠️ Stack principal: Python · SQL · Power BI · ArcGIS · Excel
+📍 Colombia
+🎓 Formación complementaria en ciencia de datos — TripleTen
 
 
+🚀 Proyectos Destacados
 
-<img width="760" height="557" alt="spring7" src="https://github.com/JABAVENDETA/Mapa-de-correlacion/blob/main/Captura%20de%20pantalla%202026-05-27%20130351.png" />
+1. 🚗 Aplicación Web — Análisis de Mercado de Vehículos
+Objetivo: Explorar y visualizar datos del mercado automotor para identificar patrones en precios, kilometraje y modelos, facilitando la toma de decisiones de compradores y vendedores.
+¿Qué hice?
 
+Realicé una exploración y limpieza de datos con Pandas
+Construí visualizaciones interactivas (histogramas y gráficos de dispersión) con Plotly
+Desarrollé y desplegué una aplicación web con Streamlit, publicada en Render
 
-# Proyecto Análisis de Delitos 🔍
+Herramientas: Python Pandas Plotly Streamlit GitHub Render
+Resultados y aprendizajes:
 
-## Descripción
-Análisis de datos de delitos en Colombia usando Python y Pandas. 
-Fuente: Policía Nacional de Colombia — Base de datos de delitos
-Archivo: v_delitos.csv (~2.38 millones de registros)
-Período: 2020 – 2025
+La app permite filtrar visualmente el inventario por kilometraje y año del modelo mediante casillas de verificación interactivas
+Aprendí el flujo completo de despliegue de una aplicación de datos: desde el análisis hasta producción
 
-## 📓 Estructura del Notebook (Metodología TripleTen)
+🔗 Ver aplicación en vivo
+<img width="760" alt="App Vehículos" src="https://github.com/user-attachments/assets/1dbfb202-bc26-4161-8093-6a7020cc5494" />
 
-El análisis sigue una estructura profesional de ciencia de datos orientada a la exploración, validación y comunicación de hallazgos., Carga del csv, verificacion de datos, analisis inivariado, analisis temporal, analisis geografico, analisis de victimas, medios y armas utilizados, patrones cruzados.
+2. 🗺️ Mapa Interactivo — Incidencia de Factores de Riesgo en Colombia
+Objetivo: Visualizar geográficamente la correlación entre violencia, narcotráfico, pobreza y homicidios en distintos puntos del territorio colombiano, para apoyar el análisis de seguridad y política pública.
+¿Qué hice?
 
--
-### 🛠️ Tecnologías Utilizadas
+Integré bases de datos nacionales con información geoespacial de Colombia
+Construí un mapa interactivo con capas activables/desactivables por índice
+Desplegué la aplicación como herramienta de consulta visual pública
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly (opcional)
-- Jupyter Notebook / Google Colab
-- Git & GitHub
+Herramientas: Python ArcGIS / Librerías de mapas Bases de datos nacionales
+Resultados y aprendizajes:
 
+Permite activar o desactivar capas de índices (violencia, narcotráfico, pobreza, homicidios) para analizar su incidencia por región
+Reforcé habilidades en visualización geoespacial y en el uso de datos abiertos gubernamentales
 
-## Acceso al proyecto
-[![Abrir en Colab] LInk: https://colab.research.google.com/drive/19yfQmaxqShAU6KJTKyvukhiolWnh3hkQ#scrollTo=PIn1ewwtJZPH
-Link del archivo csv: https://drive.google.com/drive/folders/1Gztg7C3cCjtqJ49Drabo6dp9z3zQVsmR 
+🔗 Ver mapa interactivo
+<img width="760" alt="Mapa de incidencia Colombia" src="https://github.com/JABAVENDETA/Mapa-de-correlacion/blob/main/Captura%20de%20pantalla%202026-05-27%20130351.png" />
 
-## Datos
-El dataset está disponible en Google Drive.
-Imagen: 
+3. 🔍 Análisis de Delitos en Colombia (2020–2025)
+Objetivo: Analizar patrones delictivos en Colombia a partir de ~2.38 millones de registros de la Policía Nacional, identificando tendencias temporales, geográficas y perfiles de víctimas para generar conclusiones útiles para la seguridad ciudadana.
+¿Qué hice?
+
+Cargué y procesé el dataset v_delitos.csv (~2.38M registros) con Pandas
+Realicé análisis univariado, temporal, geográfico y de víctimas
+Analicé medios y armas utilizados, así como patrones cruzados entre variables
+Generé visualizaciones estáticas e interactivas con Matplotlib, Seaborn y Plotly
+Documenté el proceso siguiendo la metodología profesional de ciencia de datos de TripleTen
+
+Herramientas: Python Pandas NumPy Matplotlib Seaborn Plotly Jupyter Notebook / Google Colab Git & GitHub
+Fuente de datos: Policía Nacional de Colombia — Período: 2020–2025
+Resultados y aprendizajes:
+
+Identifiqué los municipios y períodos con mayor concentración de delitos
+Construí un mapa interactivo de calor para visualizar la distribución geográfica de incidentes
+Mejoré mis habilidades en manejo de grandes volúmenes de datos y en la comunicación visual de hallazgos
+
+🔗 Abrir en Google Colab
+📁 Dataset en Google Drive
+Mostrar imagen
 ## Vista previa del proyecto
 
 ![Mapa Interactivo](https://raw.githubusercontent.com/JABAVENDETA/Proyecto_delitos/main/mapa_inetractivo1.png)
+
+🛠️ Tecnologías y Herramientas
+CategoríaHerramientasLenguajesPython · SQLAnálisis de datosPandas · NumPyVisualizaciónMatplotlib · Seaborn · Plotly · Power BIAplicaciones webStreamlit · RenderGeoespacialArcGISEntornosJupyter Notebook · Google Colab · VS CodeControl de versionesGit · GitHubOfimática avanzadaExcel
+
+
 
 
 <!--
