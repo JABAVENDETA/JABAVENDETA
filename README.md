@@ -76,7 +76,27 @@ Mejoré mis habilidades en manejo de grandes volúmenes de datos y en la comunic
 🛠️ Tecnologías y Herramientas
 CategoríaHerramientasLenguajesPython · SQLAnálisis de datosPandas · NumPyVisualizaciónMatplotlib · Seaborn · Plotly · Power BIAplicaciones webStreamlit · RenderGeoespacialArcGISEntornosJupyter Notebook · Google Colab · VS CodeControl de versionesGit · GitHubOfimática avanzadaExcel
 
+### 4. 🧠 Inteligencia Conductual — Segmentación de Hábitos Alimenticios
 
+**Objetivo:** Identificar perfiles de comportamiento alimenticio en una muestra de 824 personas mediante clustering, para generar recomendaciones estratégicas diferenciadas por segmento.
+
+**¿Qué hice?**
+- Procesé y limpié un dataset de 53 variables con tipos mixtos usando **Pandas**
+- Apliqué One-Hot Encoding a 45 variables categóricas y estandarización con **StandardScaler**
+- Determiné el número óptimo de clústeres mediante el **Método del Codo** y el **Coeficiente de Silueta**
+- Construí un modelo **K-Means (k=2)** que identificó dos perfiles conductuales diferenciados
+- Integré la API de **Groq (LLaMA 3.3 70B)** para generar perfiles descriptivos y recomendaciones estratégicas en lenguaje ejecutivo
+- Documenté los hallazgos en un **Informe Ejecutivo** orientado a la toma de decisiones
+
+**Herramientas:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Groq API` `Google Colab`
+
+**Resultados y aprendizajes:**
+- Se identificaron 2 segmentos: **"Comedores Balanceados"** (mayor riesgo nutricional, peso promedio 161 lb) y **"Delicias Saludables"** (hábitos más conscientes, peso promedio 154 lb)
+- Ambos clústeres presentan predominancia femenina (60-62%), lo que orienta las estrategias de intervención
+- Aprendí a integrar modelos de machine learning con IA generativa para comunicar hallazgos técnicos en lenguaje ejecutivo
+
+🔗 [**Ver notebook en Google Colab**](#) *([agrega tu enlace](https://colab.research.google.com/drive/1xFN2MsZRBkO4NdjyzfMZF9pgIT6MEPUh#scrollTo=t9H1RS1Px8qj))*
+📄 [**Ver Informe Ejecutivo**](#) *([agrega tu enlace al Word o PDF](https://docs.google.com/document/d/1RptDtWPrgioUa5LvkHl4pdEFqok0Dj2X/edit?usp=sharing&ouid=105770855580010600310&rtpof=true&sd=true))*
 
 <!--
 **JABAVENDETA/JABAVENDETA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
