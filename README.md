@@ -98,6 +98,9 @@ CategoríaHerramientasLenguajesPython · SQLAnálisis de datosPandas · NumPyVis
 🔗 [**Ver notebook en Google Colab**](#) *([agrega tu enlace](https://colab.research.google.com/drive/1xFN2MsZRBkO4NdjyzfMZF9pgIT6MEPUh#scrollTo=t9H1RS1Px8qj))*
 📄 [**Ver Informe Ejecutivo**](#) *([agrega tu enlace al Word o PDF](https://docs.google.com/document/d/1RptDtWPrgioUa5LvkHl4pdEFqok0Dj2X/edit?usp=sharing&ouid=105770855580010600310&rtpof=true&sd=true))*
 
+<img width="760" alt="Mapa de incidencia Colombia" src="https://github.com/JABAVENDETA/proyecto-human-clustering/blob/main/Captura%20de%20pantalla%202026-06-04%20214432.png" />
+
+
 <!--
 **JABAVENDETA/JABAVENDETA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
