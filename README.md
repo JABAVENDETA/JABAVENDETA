@@ -95,8 +95,8 @@ CategoríaHerramientasLenguajesPython · SQLAnálisis de datosPandas · NumPyVis
 - Ambos clústeres presentan predominancia femenina (60-62%), lo que orienta las estrategias de intervención
 - Aprendí a integrar modelos de machine learning con IA generativa para comunicar hallazgos técnicos en lenguaje ejecutivo
 
-🔗 [**Ver notebook en Google Colab**](#) *((https://colab.research.google.com/drive/1xFN2MsZRBkO4NdjyzfMZF9pgIT6MEPUh#scrollTo=t9H1RS1Px8qj))*
-📄 [**Ver Informe Ejecutivo**](#) *((https://docs.google.com/document/d/1RptDtWPrgioUa5LvkHl4pdEFqok0Dj2X/edit?usp=sharing&ouid=105770855580010600310&rtpof=true&sd=true))*
+🔗 [**Ver notebook en Google Colab**](#) *[]((https://colab.research.google.com/drive/1xFN2MsZRBkO4NdjyzfMZF9pgIT6MEPUh#scrollTo=t9H1RS1Px8qj))*
+📄 [**Ver Informe Ejecutivo**](#) *[]((https://docs.google.com/document/d/1RptDtWPrgioUa5LvkHl4pdEFqok0Dj2X/edit?usp=sharing&ouid=105770855580010600310&rtpof=true&sd=true))*
 
 <img width="760" alt="Mapa de incidencia Colombia" src="https://github.com/JABAVENDETA/proyecto-human-clustering/blob/main/Captura%20de%20pantalla%202026-06-04%20214432.png" />
 
