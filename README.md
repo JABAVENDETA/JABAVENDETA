@@ -88,6 +88,8 @@ CategoríaHerramientasLenguajesPython · SQLAnálisis de datosPandas · NumPyVis
 - Integré la API de **Groq (LLaMA 3.3 70B)** para generar perfiles descriptivos y recomendaciones estratégicas en lenguaje ejecutivo
 - Documenté los hallazgos en un **Informe Ejecutivo** orientado a la toma de decisiones
 
+**Herramientas:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Groq API` `Google Colab`
+
 **Resultados y aprendizajes:**
 - Se identificaron 2 segmentos: **"Comedores Balanceados"** (mayor riesgo nutricional, peso promedio 161 lb) y **"Delicias Saludables"** (hábitos más conscientes, peso promedio 154 lb)
 - Ambos clústeres presentan predominancia femenina (60-62%), lo que orienta las estrategias de intervención
@@ -98,7 +100,7 @@ CategoríaHerramientasLenguajesPython · SQLAnálisis de datosPandas · NumPyVis
 
 <img width="760" alt="Mapa de incidencia Colombia" src="https://github.com/JABAVENDETA/proyecto-human-clustering/blob/main/Captura%20de%20pantalla%202026-06-04%20214432.png" />
 
-**Herramientas:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Groq API` `Google Colab`
+
 
 <!--
 **JABAVENDETA/JABAVENDETA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
