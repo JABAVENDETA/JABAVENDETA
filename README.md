@@ -128,7 +128,7 @@ CategoríaHerramientasLenguajesPython · SQLAnálisis de datosPandas · NumPyVis
 - Aprendí a integrar técnicas de Deep Learning y Machine Learning para construir perfiles de clientes con enfoque estratégico.
 - Fortalecí la capacidad de transformar resultados analíticos en recomendaciones ejecutivas orientadas a la toma de decisiones.
 
-🔗 Ver Notebook en Google Colab  (#) *[](https://colab.research.google.com/drive/1bhqO3pzVCh4Fgqfn1VBcpzo3dgNSJ_Uv#scrollTo=7nHtyOk8eY3Z)*
+🔗 [Ver Notebook en Google Colab](https://colab.research.google.com/drive/1bhqO3pzVCh4Fgqfn1VBcpzo3dgNSJ_Uv)
 
 <!--
 **JABAVENDETA/JABAVENDETA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
