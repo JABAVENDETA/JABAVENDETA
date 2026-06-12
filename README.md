@@ -100,7 +100,35 @@ CategoríaHerramientasLenguajesPython · SQLAnálisis de datosPandas · NumPyVis
 
 <img width="760" alt="Mapa de incidencia Colombia" src="https://github.com/JABAVENDETA/proyecto-human-clustering/blob/main/Captura%20de%20pantalla%202026-06-04%20214432.png" />
 
+## 🎬 Inteligencia de Clientes — Segmentación Estratégica de Usuarios Netflix
 
+**Objetivo:** Identificar perfiles de comportamiento de usuarios de Netflix mediante técnicas de reducción de dimensionalidad y clustering, con el fin de generar estrategias diferenciadas de retención, monetización y experiencia de usuario.
+
+### ¿Qué hice?
+
+- Realicé la limpieza y transformación de variables demográficas, de consumo y satisfacción utilizando Pandas.
+- Codifiqué variables categóricas mediante Label Encoding y normalicé los datos con StandardScaler.
+- Exploré patrones de comportamiento mediante análisis visual y estadístico.
+- Determiné la estructura de segmentación utilizando el Método del Codo sobre los datos escalados.
+- Implementé una arquitectura Autoencoder para reducir dimensionalidad y capturar patrones latentes de comportamiento.
+- Construí un modelo K-Means sobre las representaciones comprimidas generadas por la red neuronal.
+- Utilicé PCA para visualizar los segmentos identificados en dos dimensiones.
+- Analicé cada clúster desde una perspectiva de negocio, generando recomendaciones orientadas a retención, experiencia de usuario y optimización de ingresos.
+- Elaboré un informe ejecutivo traduciendo hallazgos técnicos en acciones estratégicas.
+
+### Herramientas
+
+**Python · Pandas · NumPy · Scikit-Learn · Keras · TensorFlow · PCA · K-Means · Matplotlib · Seaborn · Google Colab**
+
+### Resultados y aprendizajes
+
+- Se identificaron **4 segmentos diferenciados de usuarios** con comportamientos, niveles de satisfacción y patrones de consumo claramente distintos.
+- Se detectaron perfiles de alto riesgo de abandono, usuarios altamente fidelizados y segmentos con potencial de crecimiento de ingresos.
+- El uso combinado de **Autoencoders y K-Means** permitió capturar relaciones complejas que no son evidentes mediante segmentación tradicional.
+- Aprendí a integrar técnicas de Deep Learning y Machine Learning para construir perfiles de clientes con enfoque estratégico.
+- Fortalecí la capacidad de transformar resultados analíticos en recomendaciones ejecutivas orientadas a la toma de decisiones.
+
+🔗 Ver Notebook en Google Colab  
 
 <!--
 **JABAVENDETA/JABAVENDETA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
