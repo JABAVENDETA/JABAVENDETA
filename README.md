@@ -147,7 +147,7 @@ CategoríaHerramientasLenguajesPython · SQLAnálisis de datosPandas · NumPyVis
 
 | Interfaz principal | Respuesta del Coronel ATLAS |
 |---|---|
-| ![Screenshot 1](assets/screenshot1.png) | ![Screenshot 2](assets/screenshot2.png) |
+| ![Screenshot 1]([[assets/screenshot1.png](https://github.com/JABAVENDETA/ATLAS/blob/main/assets/screenshot2.png)](https://github.com/JABAVENDETA/ATLAS/blob/main/assets/screenshot1.png)) | ![Screenshot 2]([assets/screenshot2.png](https://github.com/JABAVENDETA/ATLAS/blob/main/assets/screenshot2.png)) |
 
 ---
 
