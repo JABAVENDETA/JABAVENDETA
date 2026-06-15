@@ -151,8 +151,6 @@ CategoríaHerramientasLenguajesPython · SQLAnálisis de datosPandas · NumPyVis
 
 ---
 
-## 🇪🇸 Español
-
 ### ¿Qué es ATLAS?
 
 ATLAS es un agente de IA local que actúa como el **Coronel ATLAS**, analista estratégico-militar con acceso a una biblioteca de manuales tácticos, doctrina clásica y textos de ciencia política. Utiliza arquitectura **RAG (Retrieval-Augmented Generation)** para responder preguntas, comparar doctrinas y generar planes de acción basados exclusivamente en los documentos indexados.
