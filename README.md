@@ -130,6 +130,43 @@ CategoríaHerramientasLenguajesPython · SQLAnálisis de datosPandas · NumPyVis
 
 🔗 [Ver Notebook en Google Colab](https://colab.research.google.com/drive/1bhqO3pzVCh4Fgqfn1VBcpzo3dgNSJ_Uv)
 
+# 🎖️ ATLAS — Agente Táctico de Análisis Estratégico Local
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Ollama](https://img.shields.io/badge/Ollama-llama3.1-black?logo=ollama)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-orange)
+![Gradio](https://img.shields.io/badge/Gradio-UI-green?logo=gradio)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorStore-purple)
+![Local](https://img.shields.io/badge/100%25-Local-red)
+
+> **Agente de inteligencia artificial 100% local para análisis táctico-militar, consulta doctrinal y planeamiento estratégico basado en una biblioteca de manuales militares y textos de estrategia.**
+
+---
+
+## 📸 Capturas de pantalla / Screenshots
+
+| Interfaz principal | Respuesta del Coronel ATLAS |
+|---|---|
+| ![Screenshot 1](assets/screenshot1.png) | ![Screenshot 2](assets/screenshot2.png) |
+
+---
+
+## 🇪🇸 Español
+
+### ¿Qué es ATLAS?
+
+ATLAS es un agente de IA local que actúa como el **Coronel ATLAS**, analista estratégico-militar con acceso a una biblioteca de manuales tácticos, doctrina clásica y textos de ciencia política. Utiliza arquitectura **RAG (Retrieval-Augmented Generation)** para responder preguntas, comparar doctrinas y generar planes de acción basados exclusivamente en los documentos indexados.
+
+**Corre 100% en tu computador — sin internet, sin APIs externas, sin costos.**
+
+### ✨ Capacidades
+
+- **Consulta doctrinal** — Responde preguntas con citas directas de los manuales
+- **Análisis comparativo** — Contrasta doctrinas entre autores (Sun Tzu vs Clausewitz, etc.)
+- **Planeamiento táctico** — Genera Cursos de Acción (COA) paso a paso con respaldo doctrinal
+- **Memoria de conversación** — Mantiene contexto entre turnos de la misma sesión
+- **Citas de fuentes** — Cada respuesta indica qué manual fue consultado
+
 <!--
 **JABAVENDETA/JABAVENDETA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
