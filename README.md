@@ -145,7 +145,7 @@ CategoríaHerramientasLenguajesPython · SQLAnálisis de datosPandas · NumPyVis
 
 ## 📸 Capturas de pantalla / Screenshots
 
-| Interfaz principal | Respuesta del Coronel ATLAS |
+| Interfaz principal | Respuesta de ATLAS |
 |---|---|
 | ![Screenshot 1](https://raw.githubusercontent.com/JABAVENDETA/ATLAS/main/assets/screenshot1.png) | ![Screenshot 2](https://raw.githubusercontent.com/JABAVENDETA/ATLAS/main/assets/screenshot2.png) |
 
